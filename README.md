@@ -34,10 +34,10 @@
 
 
 ## 시연 영상
-### [재고30][github]  
+### [S.S.S][project]  
 ---
 
 
 
 
- [github]: [https://www.youtube.com/watch?v=DONOwRd8uj0]
+ [project]: [(https://www.youtube.com/watch?v=DONOwRd8uj0)]
