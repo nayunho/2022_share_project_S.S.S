@@ -30,7 +30,7 @@
 
 
 ## ERD  
-<img src=ERD.png width=850 height=450>    
+<img src=테이블.png width=850 height=450>    
 
 
 ## 시연 영상
