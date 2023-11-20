@@ -1,4 +1,4 @@
-<img src=재고30.png width=850 height=450>    
+<img src=S.S.S.png width=850 height=450>    
 
 # S.S.S(Stuff.Share.Site)  
 ## 물건 나눔 사이트      
