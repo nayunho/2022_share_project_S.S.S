@@ -40,4 +40,4 @@
 
 
 
- [github]: [https://github.com/nayunho/](https://www.youtube.com/watch?v=DONOwRd8uj0)https://www.youtube.com/watch?v=DONOwRd8uj0
+ [github]: [https://www.youtube.com/watch?v=DONOwRd8uj0]
